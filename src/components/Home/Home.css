@@ -1,0 +1,29 @@
+.home{
+  box-sizing: border-box;
+  padding: 0;
+  width: 100%;
+  height:800px;
+  margin: 0;
+}
+.background{
+  text-align: left;
+  background-image: url(../../images/skincares.jpg);
+  height: 800px;
+  background-size: cover;
+}
+.homeText
+{
+  width: 400px;
+  margin-left: 150px;
+  padding-top: 200px;
+  
+}
+h1{
+ font-size:60px ;
+ color: rgb(172, 14, 14);
+ margin: 0;
+}
+h2{
+  font-size:50px;
+  margin: 0;
+}

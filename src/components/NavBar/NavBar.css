@@ -1,0 +1,33 @@
+.navbar{
+  background-color: cornsilk;
+  list-style: none;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 80px;
+}
+.logo img{
+ width: 70px;
+ margin-top: 5px;
+}
+.logo{
+  float: left;
+  margin-left: 50px;
+}
+.nav{
+  width: 60%;
+  height: 80px;
+  float: right;
+  margin: 10px;
+}
+.navbarTabs{
+  list-style:none ;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
